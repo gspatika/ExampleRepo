@@ -1,7 +1,4 @@
 "This is an example file" 
 -------------------------->
 "This is a demo app"
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
