@@ -3,3 +3,10 @@
 "This is a demo"
 
 "this"
+<<<<<<< Updated upstream
+=======
+
+"master"
+"experimental"
+
+>>>>>>> Stashed changes
