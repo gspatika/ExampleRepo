@@ -1,5 +1,6 @@
 "This is an example file" 
 -------------------------->
+<<<<<<< HEAD
 "This is a demo"
 
 "this"
@@ -10,3 +11,5 @@
 "experimental"
 
 >>>>>>> Stashed changes
+=======
+>>>>>>> experimental
